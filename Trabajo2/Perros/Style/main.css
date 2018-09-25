@@ -1,0 +1,106 @@
+body {
+   
+    margin: 0;
+    font-size: 18px;
+    font-family: "letra";
+}
+main{
+
+    background-color: rgb(230, 197, 136);
+}
+
+@font-face{
+    font-family: "letra";
+    src: url("Shartoll Light.otf")
+}
+@font-face{
+    font-family: "letra2";
+    src: url("Dehasta Momentos Regular.otf")
+}
+
+
+#InPerro {
+
+    margin: 0 33%;
+
+}
+
+.contactos {
+
+    border-radius: 50%;
+    
+}
+
+
+h3{
+
+    color: white;
+    margin-left: 20px;
+    
+}
+
+img,emb,object,video {
+    max-width: 100%;
+}
+
+nav a , button {
+
+    min-width: 48px;
+    min-height: 48px;
+    margin-left: 40;
+}
+#Parrafo1 {
+
+    
+    padding: 10px; 
+    float: left; 
+    width: 45%; 
+    text-align: right;
+}
+
+#Parrafo2 {
+
+    padding: 10px; 
+    float: right; 
+    width: 45%; 
+    text-align: justify;
+}
+
+#contac {
+
+    
+    float: right;
+}
+
+
+#resc {
+
+    text-align: center;
+}
+#Parrafo1 h2,#Parrafo1 h3 {
+
+    font-family: "letra2";
+}
+#Parrafo2 h2,#Parrafo2 h3 {
+
+    font-family: "letra2";
+}
+
+body strong {
+
+    color: white;
+}
+
+a {
+text-decoration: none;
+
+}
+
+
+footer {
+
+    background-color: white;
+
+}
+
+

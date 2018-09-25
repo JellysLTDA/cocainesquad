@@ -1,0 +1,14 @@
+
+
+main{
+    order: 2;
+    width:75%;
+}
+
+aside{
+    order: 1;
+    width: 25%;
+}
+footer{
+    order: 3;
+}
